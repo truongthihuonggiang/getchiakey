@@ -1,0 +1,13 @@
+C:\Users\tthuo\source\repos\getkey\getkey\bin\Debug\getkey.exe.config
+C:\Users\tthuo\source\repos\getkey\getkey\bin\Debug\getkey.exe
+C:\Users\tthuo\source\repos\getkey\getkey\bin\Debug\getkey.pdb
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.csprojAssemblyReference.cache
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.Form1.resources
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.Properties.Resources.resources
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.csproj.GenerateResource.cache
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.exe
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.pdb
+C:\Users\tthuo\source\repos\getkey\getkey\bin\Debug\getkey.exe.manifest
+C:\Users\tthuo\source\repos\getkey\getkey\bin\Debug\getkey.application
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.exe.manifest
+C:\Users\tthuo\source\repos\getkey\getkey\obj\Debug\getkey.application
